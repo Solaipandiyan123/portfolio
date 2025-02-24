@@ -3,13 +3,13 @@
 
 **Company**: CODETECH IT SOLUTIONS  
 
-**Name**  : SHYAM KUMAR V 
+**Name**  : SOLAI PANDIYAN.H
 
-**Id**: CT08EOR 
+**Id**: CT08VGL 
 
 **Domain**: FRONTEND WEB DEVELOPMENT   
 
-**Batch Duration**: Dec 17th 2024 to Jan 17th, 2025 
+**Batch Duration**: FEB 20 TO MAR 20 
 
 **Mentor Name** : NEELA SANTHOSH
 
